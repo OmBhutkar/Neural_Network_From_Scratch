@@ -1,4 +1,3 @@
-Here’s an enhanced and detailed version of your `README.md` for the GitHub repository:
 
 ---
 
@@ -109,5 +108,3 @@ The neural network successfully learns the NAND operation by training on the giv
 This implementation is inspired by fundamental concepts in machine learning and neural networks. It serves as an educational project to deepen the understanding of how neural networks work under the hood, without relying on external deep learning libraries.
 
 ---
-
-This version of the `README.md` provides a professional and comprehensive description of the project, suitable for showcasing your work. Let me know if you need further assistance!
