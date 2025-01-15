@@ -3,7 +3,7 @@
 
 # **NAND Neural Network Implementation from Scratch**
 
-## **Overview**
+## **Objective**
 This repository contains a Python implementation of a **feedforward neural network** developed from scratch. The neural network is trained to learn the **NAND operation**, which is a fundamental logic gate used extensively in digital electronics. The focus of this project is to provide a hands-on demonstration of the core components of neural networks, including **forward pass**, **backpropagation**, and **gradient descent optimization**.
 
 ---
